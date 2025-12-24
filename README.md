@@ -48,12 +48,6 @@
 
 ---
 
-### 📫 Let's Connect
-
-- 📧 Email: `aydhmarch@gmail.com`  
-- 🛠️ Ask me something dumb: [GitHub Discussions](https://github.com/CybeRShashank)
-
----
 
 
 ### 🎯 Mission:
