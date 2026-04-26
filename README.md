@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 BS in  Cybersecurity & AI @ **IIT Patna**  
+- 🎓 BS in  Cybersecurity & AI  
 - 🔐 Passionate about **cybersecurity**, **ethical hacking**, and **digital privacy**
 - 🐧 A proud **Linux freak** and **Custom ROM explorer**
 - 🧠 Currently in learning mode — just trying not to break the internet 😅
