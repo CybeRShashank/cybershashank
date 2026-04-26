@@ -34,12 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![CybeRShashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybeRShashank&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CybeRShashank&layout=compact&theme=tokyonight)
-
----
 
 ### 🧩 Fun Fact
 
@@ -47,15 +42,6 @@
 > than watch a cricket match with 100MBPS speed. 🤷‍♂️
 
 ---
-
-
-
-### 🎯 Mission:
-
-> Become the **G.H.O.S.T**  
-> (*Greatest Hacker Of Scalable Time*)  
-> But right now, just learning... one keystroke at a time ⌨️
-
 ---
 
 *Thanks for visiting. It’s not a flashy profile yet — but one day you’ll scroll back here and say: “Damn, he really did it.” 🔥*
