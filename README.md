@@ -34,14 +34,4 @@
 
 ---
 
-
-
-### 🧩 Fun Fact
-
-> I'd rather **flash a custom ROM with no internet at 3AM**  
-> than watch a cricket match with 100MBPS speed. 🤷‍♂️
-
----
----
-
 *Thanks for visiting. It’s not a flashy profile yet — but one day you’ll scroll back here and say: “Damn, he really did it.” 🔥*
